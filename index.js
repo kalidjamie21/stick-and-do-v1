@@ -2,7 +2,7 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/9.15.0/firebas
 import { getDatabase, ref, push, onValue, remove } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-database.js"
 
 const appSettings = {
-    databaseURL: "removed for security purposes"
+    databaseURL: "https://stick-and-do-default-rtdb.europe-west1.firebasedatabase.app/"
 }
 
 // app initialization and database sourcing
