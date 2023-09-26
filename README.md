@@ -11,4 +11,5 @@ Key learnings:
 - manifest/webmanifest config for web to mobile-friendliness
 - Flexbox layouts
 
-![stickdo](https://github.com/kalidjamie21/stick-and-do-v1/assets/26650505/64b0cd36-81ad-401e-b765-fba2172d7aac)
+  
+![stickdo](https://github.com/kalidjamie21/stick-and-do-v1/assets/26650505/6f9f4611-aac6-461f-b286-cc964ed6fe05)
