@@ -4,3 +4,9 @@ A small todo list app that uses the following tech stack:
 - CSS
 - Javascript
 - Firebase
+
+Key learnings:
+
+- database integration with Firebase and real-time sourcing
+- manifest/webmanifest config for web to mobile-friendliness
+- Flexbox layouts
