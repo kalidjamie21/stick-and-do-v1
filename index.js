@@ -57,7 +57,7 @@ function appendTasktoTaskListUlEl(item) {
     newTaskItem.textContent = itemValue;
 
     // remove the double clicked task
-    newTaskItem.addEventListener("dbclick", function() {
+    newTaskItem.addEventListener("click", function() {
         let exactLocationOfTaskInDB = ref(database, "taskList/" + itemID);
 
         remove(exactLocationOfTaskInDB);
